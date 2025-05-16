@@ -15,10 +15,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Agro.Infrastructure\Agro.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Shared\Agro.Communication\Agro.Communication.csproj" />
     <ProjectReference Include="..\..\Shared\Agro.Exceptions\Agro.Exceptions.csproj" />
     <ProjectReference Include="..\Agro.Application\Agro.Application.csproj" />
+    <ProjectReference Include="..\Agro.Infrastructure\Agro.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
